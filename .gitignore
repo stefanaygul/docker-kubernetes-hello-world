@@ -1,5 +1,3 @@
 .idea
 **/*.iml
 **/target
-./deployment.yaml
-./pom.xml
