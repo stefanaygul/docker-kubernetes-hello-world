@@ -1,4 +1,4 @@
 .idea
 **/*.iml
 **/target
-./deployment.yaml
+./stef.yaml
